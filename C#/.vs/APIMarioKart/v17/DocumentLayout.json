@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|c:\\users\\utente\\desktop\\nuova cartella\\apimariokart\\apimariokart\\repositories\\personaggirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|solutionrelative:apimariokart\\repositories\\personaggirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|c:\\users\\utente\\desktop\\nuova cartella\\apimariokart\\apimariokart\\services\\squadraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|solutionrelative:apimariokart\\services\\squadraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|c:\\users\\utente\\desktop\\nuova cartella\\apimariokart\\apimariokart\\controllers\\personaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|solutionrelative:apimariokart\\controllers\\personaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|c:\\users\\utente\\desktop\\nuova cartella\\apimariokart\\apimariokart\\models\\personaggi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|solutionrelative:apimariokart\\models\\personaggi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|c:\\users\\utente\\desktop\\nuova cartella\\apimariokart\\apimariokart\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|solutionrelative:apimariokart\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|c:\\users\\utente\\desktop\\nuova cartella\\apimariokart\\apimariokart\\services\\personaggiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|solutionrelative:apimariokart\\services\\personaggiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|c:\\users\\utente\\desktop\\nuova cartella\\apimariokart\\apimariokart\\dto\\dtosquadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|solutionrelative:apimariokart\\dto\\dtosquadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|c:\\users\\utente\\desktop\\nuova cartella\\apimariokart\\apimariokart\\controllers\\squadracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8583A0-B54D-4EFA-995C-EC9B426D76F6}|APIMarioKart\\APIMarioKart.csproj|solutionrelative:apimariokart\\controllers\\squadracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTOSquadra.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\DTO\\DTOSquadra.cs",
+              "RelativeDocumentMoniker": "APIMarioKart\\DTO\\DTOSquadra.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\DTO\\DTOSquadra.cs",
+              "RelativeToolTip": "APIMarioKart\\DTO\\DTOSquadra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:26:45.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaggiRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Repositories\\PersonaggiRepo.cs",
+              "RelativeDocumentMoniker": "APIMarioKart\\Repositories\\PersonaggiRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Repositories\\PersonaggiRepo.cs",
+              "RelativeToolTip": "APIMarioKart\\Repositories\\PersonaggiRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:07:48.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personaggi.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Models\\Personaggi.cs",
+              "RelativeDocumentMoniker": "APIMarioKart\\Models\\Personaggi.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Models\\Personaggi.cs",
+              "RelativeToolTip": "APIMarioKart\\Models\\Personaggi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:40:27.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Squadra.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Models\\Squadra.cs",
+              "RelativeDocumentMoniker": "APIMarioKart\\Models\\Squadra.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Models\\Squadra.cs",
+              "RelativeToolTip": "APIMarioKart\\Models\\Squadra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:40:24.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquadraService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Services\\SquadraService.cs",
+              "RelativeDocumentMoniker": "APIMarioKart\\Services\\SquadraService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Services\\SquadraService.cs",
+              "RelativeToolTip": "APIMarioKart\\Services\\SquadraService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:24:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SquadraController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Controllers\\SquadraController.cs",
+              "RelativeDocumentMoniker": "APIMarioKart\\Controllers\\SquadraController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Controllers\\SquadraController.cs",
+              "RelativeToolTip": "APIMarioKart\\Controllers\\SquadraController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAhwEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:23:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaggioController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Controllers\\PersonaggioController.cs",
+              "RelativeDocumentMoniker": "APIMarioKart\\Controllers\\PersonaggioController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Controllers\\PersonaggioController.cs",
+              "RelativeToolTip": "APIMarioKart\\Controllers\\PersonaggioController.cs",
+              "ViewState": "AQIAABYAAACgzMzMzMwUwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:32:57.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonaggiServices.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Services\\PersonaggiServices.cs",
+              "RelativeDocumentMoniker": "APIMarioKart\\Services\\PersonaggiServices.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Nuova cartella\\APIMarioKart\\APIMarioKart\\Services\\PersonaggiServices.cs",
+              "RelativeToolTip": "APIMarioKart\\Services\\PersonaggiServices.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAlwEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:12:53.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
